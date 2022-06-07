@@ -1,4 +1,4 @@
 # Flutter-Resources
 
-# SECTION 1: INTRODUCTION
+# Section 1: Introduction
 
