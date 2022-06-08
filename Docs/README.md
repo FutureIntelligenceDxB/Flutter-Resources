@@ -28,4 +28,5 @@
 ### SECTION 6: BUSS CARD – BUILDING WOUNDERFUL UIs WITH FLUTTER WIDGETS
 - [Hot Reload and Hot Restart](https://docs.flutter.dev/development/tools/hot-reload)
 - [Stateless Widget](https://api.flutter.dev/flutter/widgets/StatelessWidget-class.html)
-- 
+- [Flutter Layout](https://docs.flutter.dev/development/ui/layout)
+- [Container Widget](https://api.flutter.dev/flutter/widgets/Container-class.html)
