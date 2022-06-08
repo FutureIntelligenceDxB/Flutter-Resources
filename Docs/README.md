@@ -7,5 +7,8 @@
 
 ### SECTION 2: SETUP AND INSTALLATION
 - [Install Flutter for Windows](https://docs.flutter.dev/get-started/install/windows)
+- [Git for Windows](https://git-scm.com/download/win)
 - [Install Flutter for Mac](https://docs.flutter.dev/get-started/install/macos)
+- [Git for Mac](https://git-scm.com/download/mac)
 - [Install Android Studio](https://developer.android.com/studio)
+- [IOS Instructions](https://docs.flutter.dev/get-started/install/macos#ios-setup)
