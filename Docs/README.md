@@ -8,4 +8,4 @@
 ### S E C T I O N 2 : S E T U P A N D I N S T A L L A T I O N
 - [Install Flutter for Windows](https://docs.flutter.dev/get-started/install/windows)
 - [Install Flutter for Mac](https://docs.flutter.dev/get-started/install/macos)
-- [Install Android Studio](https://developer.android.com/studio)(https://developer.android.com/studio)
+- [Install Android Studio](https://developer.android.com/studio)
