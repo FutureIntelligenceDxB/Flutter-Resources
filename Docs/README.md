@@ -16,6 +16,5 @@
 ### SECTION 3: MR. HAMMER
 - [Scaffolding](https://api.flutter.dev/flutter/material/Scaffold-class.html)
 - [AppBar](https://api.flutter.dev/flutter/material/AppBar-class.html)
-- Assets and Images
-    - [1](https://docs.flutter.dev/development/ui/assets-and-images)
-    - [2](https://api.flutter.dev/flutter/widgets/Image-class.html)
+- [Assets and Images](https://docs.flutter.dev/development/ui/assets-and-images)
+- [Image Widget](https://api.flutter.dev/flutter/widgets/Image-class.html)
