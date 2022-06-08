@@ -19,14 +19,27 @@
 - [Assets and Images](https://docs.flutter.dev/development/ui/assets-and-images)
 - [Image Widget](https://api.flutter.dev/flutter/widgets/Image-class.html)
 - [Pubspec File](https://docs.flutter.dev/development/tools/pubspec)
-- [Icon Widget](https://api.flutter.dev/flutter/widgets/Icon-class.html)
 
 ### SECTION 5: RUNNING BUILT APP ON PHYSICAL DEVICE
 - [Deploying Flutter Apps to an Android Phone](https://docs.flutter.dev/deployment/android)
 - [Deploying Flutter Apps to an IOS](https://docs.flutter.dev/deployment/ios)
 
-### SECTION 6: BIZZ CARD – BUILDING WOUNDERFUL UIs WITH FLUTTER WIDGETS
+### SECTION 6: BUSS CARD – BUILDING WOUNDERFUL UIs WITH FLUTTER WIDGETS
 - [Hot Reload and Hot Restart](https://docs.flutter.dev/development/tools/hot-reload)
 - [Stateless Widget](https://api.flutter.dev/flutter/widgets/StatelessWidget-class.html)
 - [Flutter Layout](https://docs.flutter.dev/development/ui/layout)
 - [Container Widget](https://api.flutter.dev/flutter/widgets/Container-class.html)
+- [Cloumn Widget](https://api.flutter.dev/flutter/widgets/Column-class.html)
+- [Row Widget](https://api.flutter.dev/flutter/widgets/Row-class.html)
+- [Download Fonts on Google Fonts](https://fonts.google.com/)
+- [Incorporating Custom fonts in Pubspec.yaml File](https://docs.flutter.dev/cookbook/design/fonts)
+- [Icon Widget](https://api.flutter.dev/flutter/widgets/Icon-class.html)
+- [Search Icons on materialpalette.com](https://www.materialpalette.com/icons)
+- [Card Class](https://api.flutter.dev/flutter/material/Card-class.html)
+- [Padding Widget](https://api.flutter.dev/flutter/widgets/Padding-class.html)
+- [LisTile Widget](https://api.flutter.dev/flutter/material/ListTile-class.html)
+- [Divider Widget](https://api.flutter.dev/flutter/material/Divider-class.html)
+
+
+
+
