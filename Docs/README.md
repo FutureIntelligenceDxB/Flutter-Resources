@@ -40,6 +40,8 @@
 - [LisTile Widget](https://api.flutter.dev/flutter/material/ListTile-class.html)
 - [Divider Widget](https://api.flutter.dev/flutter/material/Divider-class.html)
 
+### SECTION 8: DICE – BUILDING A SIMPLE GAME APP WITH STATE
+
 
 
 
