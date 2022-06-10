@@ -58,6 +58,14 @@
 - [Random Widget](https://api.flutter.dev/flutter/dart-math/Random-class.html)
 - [SetState Property](https://api.flutter.dev/flutter/widgets/State/setState.html)
 
+### SECTION 10: XYLOPHONE – USING FLUTTER AND DART PACKAGES
+- [How to Use Flutter & Dart Packages](https://docs.flutter.dev/development/packages-and-plugins/using-packages)
+- [Install Flutter Packages on peb.dev](https://pub.dev/packages?q=sdk%3Aflutter)
+- [AudioPlayers](https://pub.dev/packages/audioplayers)
+- [Audio Cache](https://github.com/bluefireteam/audioplayers/blob/main/packages/audioplayers/doc/audio_cache.md)
+
+
+
 
 
 
