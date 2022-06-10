@@ -41,7 +41,14 @@
 - [Divider Widget](https://api.flutter.dev/flutter/material/Divider-class.html)
 
 ### SECTION 8: DICE – BUILDING A SIMPLE GAME APP WITH STATE
-
+- [Statefull Widget](https://api.flutter.dev/flutter/widgets/StatefulWidget-class.html)
+- [Expanded Widget](https://api.flutter.dev/flutter/widgets/Expanded-class.html)
+- [Buttons Widgets](https://docs.flutter.dev/release/breaking-changes/buttons)
+- [Text Button](https://api.flutter.dev/flutter/material/TextButton-class.html)
+- [Run code on Dartpad](https://dartpad.dev/)
+- [Dart Functions](https://www.geeksforgeeks.org/dart-programming-functions/)
+- [Types of Dart Fuctions Resource 1](https://www.geeksforgeeks.org/different-types-of-functions-in-dart/)
+- [Types of Dart Fuctions Resource 2](https://www.tutorialspoint.com/dart_programming/dart_programming_functions.htm)
 
 
 
