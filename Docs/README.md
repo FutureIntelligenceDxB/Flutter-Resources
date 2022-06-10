@@ -55,7 +55,8 @@
 - [Dart DataTypes Resource 2](https://www.tutorialspoint.com/dart_programming/dart_programming_data_types.htm)
 - [Stateful vs Stateless Widget Resource 1](https://www.geeksforgeeks.org/flutter-stateful-vs-stateless-widgets/)
 - [Stateful vs Stateless Widget Resource 2](https://medium.com/flutter-community/flutter-stateful-vs-stateless-db325309deae)
-Click - [Random Widget](https://api.flutter.dev/flutter/dart-math/Random-class.html)
+- [Random Widget](https://api.flutter.dev/flutter/dart-math/Random-class.html)
+- [SetState Property](https://api.flutter.dev/flutter/widgets/State/setState.html)
 
 
 
