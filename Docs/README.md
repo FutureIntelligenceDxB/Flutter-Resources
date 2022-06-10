@@ -24,7 +24,7 @@
 - [Deploying Flutter Apps to an Android Phone](https://docs.flutter.dev/deployment/android)
 - [Deploying Flutter Apps to an IOS](https://docs.flutter.dev/deployment/ios)
 
-### SECTION 6: BUSS CARD – BUILDING WOUNDERFUL UIs WITH FLUTTER WIDGETS
+### SECTION 6: BIZZ CARD – BUILDING WOUNDERFUL UIs WITH FLUTTER WIDGETS
 - [Hot Reload and Hot Restart](https://docs.flutter.dev/development/tools/hot-reload)
 - [Stateless Widget](https://api.flutter.dev/flutter/widgets/StatelessWidget-class.html)
 - [Flutter Layout](https://docs.flutter.dev/development/ui/layout)
