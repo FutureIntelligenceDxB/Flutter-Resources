@@ -49,6 +49,17 @@
 - [Dart Functions](https://www.geeksforgeeks.org/dart-programming-functions/)
 - [Types of Dart Fuctions Resource 1](https://www.geeksforgeeks.org/different-types-of-functions-in-dart/)
 - [Types of Dart Fuctions Resource 2](https://www.tutorialspoint.com/dart_programming/dart_programming_functions.htm)
+- [Dart Variables Resource 1](https://www.geeksforgeeks.org/variables-and-keywords-in-dart/)
+- [Dart Variables Resource 2](https://www.tutorialspoint.com/dart_programming/dart_programming_variables.htm)
+- [Dart DataTypes](https://www.geeksforgeeks.org/dart-data-types/)
+ <a href="http://www.lewagon.com">Le Wagon</a>
+
+
+
+
+
+
+
 
 
 
