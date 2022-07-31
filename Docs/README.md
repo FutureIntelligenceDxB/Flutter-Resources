@@ -19,6 +19,8 @@
 - [Assets and Images](https://docs.flutter.dev/development/ui/assets-and-images)
 - [Image Widget](https://api.flutter.dev/flutter/widgets/Image-class.html)
 - [Pubspec File](https://docs.flutter.dev/development/tools/pubspec)
+- [App Icon Maker](https://appicon.co/)
+- [App Icon Maker (Only Android)](https://romannurik.github.io/AndroidAssetStudio/icons-launcher.html#foreground.type=clipart&foreground.clipart=android&foreground.space.trim=1&foreground.space.pad=0.25&foreColor=rgba(96%2C%20125%2C%20139%2C%200)&backColor=rgb(68%2C%20138%2C%20255)&crop=0&backgroundShape=circle&effects=none&name=ic_launcher)
 
 ### SECTION 5: RUNNING BUILT APP ON PHYSICAL DEVICE
 - [Deploying Flutter Apps to an Android Phone](https://docs.flutter.dev/deployment/android)
