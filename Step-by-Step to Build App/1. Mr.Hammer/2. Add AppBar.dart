@@ -6,8 +6,10 @@ void main() {
       home: Scaffold(
         backgroundColor: Colors.blueGrey,
         appBar: AppBar(
-          title: const Text('Mr Hammer'),
           backgroundColor: Colors.blueGrey.shade700,
+          title: const Text(
+            'Mr Hammer',
+          ),
         ),
       ),
     ),
