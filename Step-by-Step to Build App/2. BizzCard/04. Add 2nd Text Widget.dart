@@ -14,18 +14,30 @@ class MyApp extends StatelessWidget {
         backgroundColor: Colors.grey[500],
         body: SafeArea(
           child: Column(
-            children: const [
-              CircleAvatar(
+            children:  [
+              const CircleAvatar(
                 radius: 50.0,
                 backgroundColor: Colors.transparent,
                 backgroundImage: AssetImage('images/FI.png'),
               ),
-              Text(
+              const Text(
                 'Future Intelligence',
                 style: TextStyle(
-                  fontSize: 20.0,
-                  color: Colors.white,
                   fontWeight: FontWeight.bold,
+                  letterSpacing: 2.0,
+                  fontSize: 25.0,
+                  color: Colors.white,
+                  fontFamily: 'kalam',
+                ),
+              ),
+              Text(
+                'Every Child. Future Ready.',
+                style: TextStyle(
+                  fontWeight: FontWeight.bold,
+                  letterSpacing: 2.5,
+                  fontSize: 20.0,
+                  color: Colors.grey.shade200,
+                  fontFamily: 'Source Sans Pro',
                 ),
               ),
             ],
