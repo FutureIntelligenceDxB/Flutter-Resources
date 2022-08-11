@@ -10,7 +10,7 @@ class Xylophone extends StatelessWidget {
 
   void playSound(int soundNo) {
     final player = AudioPlayer();
-    player.play(AssetSource('note$soundNo
+    player.play(AssetSource('note$soundNo.wav));
   }
 
   @override
