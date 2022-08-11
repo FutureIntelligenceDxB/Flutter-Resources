@@ -9,8 +9,8 @@ class Xylophone extends StatelessWidget {
   const Xylophone({Key? key}) : super(key: key);
 
   void playSound(int soundNo) {
-    final player = AudioCache();
-    player.play('note$soundNo.wav');
+    final player = AudioPlayer();
+    player.play(AssetSource('note$soundNo
   }
 
   @override
