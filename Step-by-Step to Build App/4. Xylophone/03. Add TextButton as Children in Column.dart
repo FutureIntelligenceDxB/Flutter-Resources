@@ -20,8 +20,8 @@ class Xylophone extends StatelessWidget {
                   backgroundColor: MaterialStateColor.resolveWith((states) => Colors.pink.shade300),
                 ),
                 onPressed: () {
-                  final player = AudioCache();
-                  player.play('note1.wav');
+                  final player = AudioPlayer();
+                player.play(AssetSource('note1.wav'));
                 },
                 child: const Text(
                   '',
