@@ -20,8 +20,8 @@ class Xylophone extends StatelessWidget {
                   backgroundColor: MaterialStateColor.resolveWith((states) => Colors.pink.shade300),
                 ),
                 onPressed: () {
-                  final player = AudioCache();
-                  player.play('note1.wav');
+                  final player = AudioPlayer();
+                player.play(AssetSource('note1.wav'));
                 },
                 child: const Text(
                   '',
@@ -32,8 +32,8 @@ class Xylophone extends StatelessWidget {
                   backgroundColor: MaterialStateColor.resolveWith((states) => Colors.deepPurple),
                 ),
                 onPressed: () {
-                  final player = AudioCache();
-                  player.play('note2.wav');
+                  final player = AudioPlayer();
+                player.play(AssetSource('note2.wav'));
                 },
                 child: const Text(
                   '',
@@ -44,8 +44,8 @@ class Xylophone extends StatelessWidget {
                   backgroundColor: MaterialStateColor.resolveWith((states) => Colors.cyan.shade200),
                 ),
                 onPressed: () {
-                  final player = AudioCache();
-                  player.play('note3.wav');
+                  final player = AudioPlayer();
+                player.play(AssetSource('note3.wav'));
                 },
                 child: const Text(
                   '',
@@ -56,8 +56,8 @@ class Xylophone extends StatelessWidget {
                   backgroundColor: MaterialStateColor.resolveWith((states) => Colors.green.shade600),
                 ),
                 onPressed: () {
-                  final player = AudioCache();
-                  player.play('note4.wav');
+                  final player = AudioPlayer();
+                player.play(AssetSource('note4.wav'));
                 },
                 child: const Text(
                   '',
@@ -68,8 +68,8 @@ class Xylophone extends StatelessWidget {
                   backgroundColor: MaterialStateColor.resolveWith((states) => Colors.yellow),
                 ),
                 onPressed: () {
-                  final player = AudioCache();
-                  player.play('note5.wav');
+                  final player = AudioPlayer();
+                player.play(AssetSource('note5.wav'));
                 },
                 child: const Text(
                   '',
@@ -80,8 +80,8 @@ class Xylophone extends StatelessWidget {
                   backgroundColor: MaterialStateColor.resolveWith((states) => Colors.orange.shade800),
                 ),
                 onPressed: () {
-                  final player = AudioCache();
-                  player.play('note6.wav');
+                  final player = AudioPlayer();
+                player.play(AssetSource('note6.wav'));
                 },
                 child: const Text(
                   '',
@@ -92,8 +92,8 @@ class Xylophone extends StatelessWidget {
                   backgroundColor: MaterialStateColor.resolveWith((states) => Colors.red),
                 ),
                 onPressed: () {
-                  final player = AudioCache();
-                  player.play('note7.wav');
+                  final player = AudioPlayer();
+                player.play(AssetSource('note8.wav'));
                 },
                 child: const Text(
                   '',
