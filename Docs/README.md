@@ -37,6 +37,7 @@
 - [Incorporating Custom fonts in Pubspec.yaml File](https://docs.flutter.dev/cookbook/design/fonts)
 - [Icon Widget](https://api.flutter.dev/flutter/widgets/Icon-class.html)
 - [Search Icons on materialpalette.com](https://www.materialpalette.com/icons)
+- [SizedBox Widget](https://api.flutter.dev/flutter/widgets/SizedBox-class.html)
 - [Card Class](https://api.flutter.dev/flutter/material/Card-class.html)
 - [Padding Widget](https://api.flutter.dev/flutter/widgets/Padding-class.html)
 - [LisTile Widget](https://api.flutter.dev/flutter/material/ListTile-class.html)
