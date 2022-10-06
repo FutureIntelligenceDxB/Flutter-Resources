@@ -12,6 +12,7 @@
 - [Git for Mac](https://git-scm.com/download/mac)
 - [Install Android Studio](https://developer.android.com/studio)
 - [IOS Instructions](https://docs.flutter.dev/get-started/install/macos#ios-setup)
+- [Drive link for Installation](https://drive.google.com/drive/folders/1pJTF-rwqOXou2Vh3NyrahgUk24yyGsHR?usp=sharing)
 
 ### SECTION 3: MR. HAMMER
 - [Scaffolding](https://api.flutter.dev/flutter/material/Scaffold-class.html)
